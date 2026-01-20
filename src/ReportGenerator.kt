@@ -1,3 +1,3 @@
 interface ReportGenerator {
-    abstract fun generateReport(): String
+     fun generateReport(): String
 }
